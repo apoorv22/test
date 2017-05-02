@@ -1,10 +1,10 @@
-CREATE DATABASE  IF NOT EXISTS `german_data` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `german_data`;
+CREATE DATABASE  IF NOT EXISTS `german_credit_data` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `german_credit_data`;
 -- MySQL dump 10.13  Distrib 5.5.54, for debian-linux-gnu (x86_64)
 --
--- Host: 192.168.0.17    Database: german_data
+-- Host: 172.31.23.173    Database: german_credit_data
 -- ------------------------------------------------------
--- Server version	5.6.33-0ubuntu0.14.04.1-log
+-- Server version	5.6.31-0ubuntu0.14.04.2
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -56,4 +56,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2017-04-28 18:43:16
+-- Dump completed on 2017-05-02 16:31:33
